@@ -11,6 +11,7 @@ I am a new graduate software engineer from the University of Ottawa. I have a pa
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senoussi-al-nadjib-93546b198/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senoussi08@gmail.com) 
 
 # 💻 Tech Stack:
 
