@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Senoussi Al-Nadjib</h1>
 
 # 💫 About Me:
-I am a new graduate software engineer from the University of Ottawa. I have a passion for full-stack development and machine learning. My expertise lies in designing and implementing scalable web applications.
+I am a new graduate software engineer from the University of Ottawa. I have a passion for full-stack development and machine learning. I aspire to create web applications that solve real-world problems and bring value to users.
 
 ## 🚀 What I'm Up To
 
