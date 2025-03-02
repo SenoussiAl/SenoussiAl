@@ -5,7 +5,7 @@ I am a new graduate software engineer from the University of Ottawa. I have a pa
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) , [kaggle](https://www.kaggle.com/) and [tensorflow](https://www.tensorflow.org/)
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) and [tensorflow](https://www.tensorflow.org/)
 - 💻 Building Spring Boot applications with Java, Maven, PostgreSQL
 
 
